@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to="Html5DOM">
+  <!-- Inherit our applications main module.                      -->
+  <inherits name='net.roddy.Html5DOM' />
+
+  <!-- Specify the path to any remote services.                   -->
+  <servlet path="/Html5DOM/greet" class="net.roddy.server.GreetingServiceImpl" />
+
+</module>
