@@ -1,4 +1,4 @@
-package net.roddy.shared;
+package net.roddy.dom.shared;
 
 /**
  * <p>

@@ -83,7 +83,7 @@
         <configuration>
           <runTarget>Html5DOM.html</runTarget>
           <modules>
-            <module>net.roddy.Html5DOM</module>
+            <module>net.roddy.dom.Html5DOM</module>
           </modules>
         </configuration>
       </plugin>

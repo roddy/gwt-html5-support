@@ -1,6 +1,6 @@
-package net.roddy.client;
+package net.roddy.dom.client;
 
-import net.roddy.shared.FieldVerifier;
+import net.roddy.dom.shared.FieldVerifier;
 import com.google.gwt.core.client.GWT;
 import com.google.gwt.junit.client.GWTTestCase;
 import com.google.gwt.user.client.rpc.AsyncCallback;
@@ -22,7 +22,7 @@ public class GwtTestHtml5DOM extends GWTTestCase {
    * Must refer to a valid module that sources this class.
    */
   public String getModuleName() {
-    return "net.roddy.Html5DOMJUnit";
+    return "net.roddy.dom.Html5DOMJUnit";
   }
 
   /**

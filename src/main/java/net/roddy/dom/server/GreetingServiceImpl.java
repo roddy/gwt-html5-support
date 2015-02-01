@@ -1,7 +1,7 @@
-package net.roddy.server;
+package net.roddy.dom.server;
 
-import net.roddy.client.GreetingService;
-import net.roddy.shared.FieldVerifier;
+import net.roddy.dom.client.GreetingService;
+import net.roddy.dom.shared.FieldVerifier;
 import com.google.gwt.user.server.rpc.RemoteServiceServlet;
 
 /**

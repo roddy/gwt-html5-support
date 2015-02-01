@@ -1,6 +1,6 @@
-package net.roddy.client;
+package net.roddy.dom.client;
 
-import net.roddy.shared.FieldVerifier;
+import net.roddy.dom.shared.FieldVerifier;
 import com.google.gwt.core.client.EntryPoint;
 import com.google.gwt.core.client.GWT;
 import com.google.gwt.event.dom.client.ClickEvent;

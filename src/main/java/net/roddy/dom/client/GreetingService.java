@@ -1,4 +1,4 @@
-package net.roddy.client;
+package net.roddy.dom.client;
 
 import com.google.gwt.user.client.rpc.RemoteService;
 import com.google.gwt.user.client.rpc.RemoteServiceRelativePath;
