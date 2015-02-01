@@ -79,13 +79,13 @@
           </execution>
         </executions>
         <!-- Plugin configuration. There are many available options, see 
-          gwt-maven-plugin documentation at codehaus.org -->
+          gwt-maven-plugin documentation at codehaus.org
         <configuration>
           <runTarget>Html5DOM.html</runTarget>
           <modules>
             <module>net.roddy.dom.Html5DOM</module>
           </modules>
-        </configuration>
+        </configuration> -->
       </plugin>
     </plugins>
   </build>
