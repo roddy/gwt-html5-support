@@ -4,6 +4,4 @@
   <inherits name='net.roddy.dom.Html5DOM' />
 
   <!-- Specify the path to any remote services.                   -->
-  <servlet path="/Html5DOM/greet" class="net.roddy.dom.server.GreetingServiceImpl" />
-
 </module>
