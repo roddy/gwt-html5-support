@@ -13,7 +13,7 @@
   <replace-with class="com.google.gwt.dom.client.Html5DOMImplIE8">
       <when-type-is class="com.google.gwt.dom.client.DOMImplIE8" />
   </replace-with>
-    
+
   <replace-with class="com.google.gwt.dom.client.Html5Document">
       <when-type-is class="com.google.gwt.dom.client.Document" />
   </replace-with>
