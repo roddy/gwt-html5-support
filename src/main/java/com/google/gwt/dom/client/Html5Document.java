@@ -18,6 +18,10 @@ public class Html5Document extends Document {
         return (SectionElement) DOMImpl.impl.createElement(this, SectionElement.TAG);
     }
 
+    /**
+     * Creates a &lt;article&gt; element.
+     * @return the newly created element
+     */
     public final ArticleElement createArticleElement() {
         return (ArticleElement) DOMImpl.impl.createElement(this, ArticleElement.TAG);
     }
