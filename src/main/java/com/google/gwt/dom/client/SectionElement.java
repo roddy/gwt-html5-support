@@ -5,7 +5,7 @@ import com.google.gwt.core.client.JavaScriptObject;
 /**
  * HTML5 section element.
  *
- * @see <a href="http://www.w3.org/TR/2011/WD-html5-author-20110705/the-section-element.html">W3C HTML Specification</a>
+ * @see <a href="http://www.w3.org/html/wg/drafts/html/master/sections.html#the-section-element">W3C HTML5 Draft</a>
  */
 @TagName(SectionElement.TAG)
 public class SectionElement extends Element {

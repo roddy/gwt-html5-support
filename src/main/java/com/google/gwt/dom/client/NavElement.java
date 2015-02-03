@@ -5,7 +5,7 @@ import com.google.gwt.core.client.JavaScriptObject;
 /**
  * HTML5 navigational element.
  *
- * @see <a href="http://www.w3.org/TR/2011/WD-html5-author-20110705/the-nav-element.html">W3C HTML Specification</a>
+ * @see <a href="http://www.w3.org/html/wg/drafts/html/master/sections.html#the-nav-element">W3C HTML5 Draft</a>
  */
 @TagName(NavElement.TAG)
 public class NavElement extends Element {
