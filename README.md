@@ -1,2 +1,2 @@
-# gwt-html5-support
-HTML5 support for GWT
+# gwt-htmlspec
+GWT support for the full W3C HTML specification.

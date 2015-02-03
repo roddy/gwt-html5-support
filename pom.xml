@@ -6,7 +6,7 @@
 
   <modelVersion>4.0.0</modelVersion>
   <groupId>net.roddy</groupId>
-  <artifactId>gwt-html5-support</artifactId>
+  <artifactId>gwt-htmlspec</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
   <name>GWT Maven Archetype</name>
