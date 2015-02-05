@@ -1,6 +1,6 @@
 package com.google.gwt.dom.client;
 
-public class Html5Document extends Document {
+public class Html5Document extends Html4Document {
 
     /**
      * Creates a &lt;nav&gt; element.
