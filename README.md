@@ -75,7 +75,7 @@ The GWT javadoc explains best the sort of support these elements provide to deve
 | legend | LegendElement | - |
 | li | LIElement | - |
 | link | LinkElement | - |
-| main | - | - |
+| main | - | MainElement |
 | map | MapElement | - |
 | mark | - | - |
 | menu | - | - |
@@ -130,6 +130,7 @@ The GWT javadoc explains best the sort of support these elements provide to deve
 
 These tags are obsoleted in HTML5, but GWT still provides native support. They are included here for completeness.
 
-| Tag | GWT Native Support
-| frame | FrameElement
-| frameset | FrameSetElement
+| Tag | GWT Native Support |
+|-----|--------------------|
+| frame | FrameElement |
+| frameset | FrameSetElement |
