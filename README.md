@@ -22,7 +22,7 @@ The GWT javadoc explains best the sort of support these elements provide to deve
 | Tag | GWT Native Support | gwt-htmlspec |
 |-----|--------------------|--------------|
 | a | AnchorElement | - |
-| abbr | - | - |
+| abbr | - | AbbrElement |
 | address | - | - |
 | area | AreaElement | - |
 | article | - | ArticleElement |
