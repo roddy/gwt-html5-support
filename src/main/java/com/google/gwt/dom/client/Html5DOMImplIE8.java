@@ -6,7 +6,8 @@ public class Html5DOMImplIE8 extends DOMImplIE8 {
         if("nav" === tag ||
            "section" === tag ||
            "article" === tag ||
-           "aside" === tag) {
+           "aside" === tag ||
+           "main" === tag) {
           tag = "div";
         }
         return doc.createElement(tag);

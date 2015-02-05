@@ -34,6 +34,14 @@ public class Html5Document extends Document {
         return (AsideElement) DOMImpl.impl.createElement(this, AsideElement.TAG);
     }
 
+    /**
+     * Creates a &lt;main&gt; element.
+     * @return the newly created element
+     */
+    public final MainElement createMainElement() {
+        return (MainElement) DOMImpl.impl.createElement(this, MainElement.TAG);
+    }
+
     protected Html5Document() {
 
     }
