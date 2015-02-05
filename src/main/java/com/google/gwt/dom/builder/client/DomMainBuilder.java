@@ -11,4 +11,10 @@ public class DomMainBuilder extends DomElementBuilderBase<MainBuilder, MainEleme
     DomMainBuilder(DomBuilderImpl delegate) {
         super(delegate);
     }
+
+    @Override
+    public MainBuilder role(String role) {
+        assertCanAddAttribute().setRole(role);
+        return this;
+    }
 }
