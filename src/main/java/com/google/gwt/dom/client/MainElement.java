@@ -54,6 +54,13 @@ public class MainElement extends Element {
         return elem != null && elem.hasTagName(TAG);
     }
 
+    public final native String getRole() /*-{
+        return this.role;
+    }-*/;
+
+    public final native void setRole(String role) /*-{
+        this.role = role;
+    }-*/;
 
     protected MainElement() {
 
