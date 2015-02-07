@@ -101,7 +101,7 @@ The GWT javadoc explains best the sort of support these elements provide to deve
 | script | ScriptElement | - |
 | section | - | SectionElement |
 | select | SelectElement | - |
-| small | - | - |
+| small | - | SmallElement |
 | source | SourceElement | - |
 | span | SpanElement | - |
 | strong | - | - |
