@@ -42,6 +42,14 @@ public class Html5Document extends Html4Document {
         return (MainElement) DOMImpl.impl.createElement(this, MainElement.TAG);
     }
 
+    /**
+     * Creates a &lt;meter&gt; element.
+     * @return the newly created element
+     */
+    public final MeterElement createMeterElement() {
+        return (MeterElement) DOMImpl.impl.createElement(this, MeterElement.TAG);
+    }
+
     protected Html5Document() {
 
     }

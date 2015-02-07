@@ -9,7 +9,7 @@ public class Html4Document extends Document {
     public final SmallElement createSmallElement() {
         return (SmallElement) DOMImpl.impl.createElement(this, SmallElement.TAG);
     }
-    
+
     /**
      * Creates a &lt;abbr&gt; element.
      * @return the newly created element

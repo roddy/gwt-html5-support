@@ -40,8 +40,8 @@ The GWT javadoc explains best the sort of support these elements provide to deve
 | caption | TableCaptionElement | - |
 | cite | - | - |
 | code | - | - |
-| col | - | - |
-| colgroup | - | - |
+| col | TableColElement | - |
+| colgroup | TableColElement | - |
 | command | - | - |
 | datalist | - | - |
 | dd | - | - |
