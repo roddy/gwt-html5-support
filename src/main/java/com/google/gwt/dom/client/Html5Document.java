@@ -50,6 +50,28 @@ public class Html5Document extends Html4Document {
         return (MeterElement) DOMImpl.impl.createElement(this, MeterElement.TAG);
     }
 
+    public final RubyElement createRubyElement() {
+        return (RubyElement) DOMImpl.impl.createElement(this, RubyElement.RUBY_TAG);
+    }
+
+    public final RubyElement createRtcElement() {
+        return (RubyElement) DOMImpl.impl.createElement(this, RubyElement.RTC_TAG);
+    }
+
+    public final RubyElement createRbElement() {
+        return (RubyElement) DOMImpl.impl.createElement(this, RubyElement.RB_TAG);
+    }
+
+    public final RubyElement createRpElement() {
+        return (RubyElement) DOMImpl.impl.createElement(this, RubyElement.RP_TAG);
+    }
+
+    public final RubyElement createRtElement() {
+        return (RubyElement) DOMImpl.impl.createElement(this, RubyElement.RT_TAG);
+    }
+
+
+
     protected Html5Document() {
 
     }

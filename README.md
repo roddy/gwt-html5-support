@@ -80,7 +80,7 @@ The GWT javadoc explains best the sort of support these elements provide to deve
 | mark | - | - |
 | menu | - | - |
 | meta | MetaElement | - |
-| meter | - | - |
+| meter | - | MeterElement |
 | nav | - | NavElement |
 | noscript | - | - |
 | obj | ObjectElement | - |
@@ -93,9 +93,9 @@ The GWT javadoc explains best the sort of support these elements provide to deve
 | pre | PreElement | - |
 | progress | - | - |
 | q | QuoteElement | - |
-| rp | - | - |
-| rt | - | - |
-| ruby | - | - |
+| rp | - | RubyElement |
+| rt | - | RubyElement |
+| ruby | - | RubyElement |
 | s | - | - |
 | samp | - | - |
 | script | ScriptElement | - |
